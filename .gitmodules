@@ -1,0 +1,28 @@
+[submodule "maze-project-ddc"]
+	path = maze-project-ddc
+	url = https://github.com/ibrahim2806/maze-project-ddc.git
+
+[submodule "digital-voting-machine-ee2"]
+	path = digital-voting-machine-ee2
+	url = https://github.com/ibrahim2806/digital-voting-machine-ee2.git
+
+[submodule "electronic-circuit-design-ed"]
+	path = electronic-circuit-design-ed
+	url = https://github.com/ibrahim2806/electronic-circuit-design-ed.git
+
+[submodule "complex-digital-design-cdd"]
+	path = complex-digital-design-cdd
+	url = https://github.com/ibrahim2806/complex-digital-design-cdd.git
+
+[submodule "robotic-arm-haptic-feedback-ee3"]
+	path = robotic-arm-haptic-feedback-ee3
+	url = https://github.com/ibrahim2806/robotic-arm-haptic-feedback-ee3.git
+
+[submodule "computer-architecture-ca"]
+	path = computer-architecture-ca
+	url = https://github.com/ibrahim2806/computer-architecture-ca.git
+
+[submodule "transistor-circuits-amplifiers-tca"]
+	path = transistor-circuits-amplifiers-tca
+	url = https://github.com/ibrahim2806/transistor-circuits-amplifiers-tca.git
+
